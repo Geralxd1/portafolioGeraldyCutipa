@@ -40,7 +40,7 @@ const HeroSection = () => {
                     }}
                     className="md:w-1/2 flex justify-center mt-8 md:mt-0"
                 >
-                    <img src="/astronaut.png" alt="Astronauta" className="w-80 md:w-[400px] animate-float" />
+                    <img src="./astronaut.png" alt="Astronauta" className="w-80 md:w-[400px] animate-float" />
                 </motion.div>
 
             </div>
