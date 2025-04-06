@@ -25,7 +25,7 @@ export default function Navbar() {
     const navItems = ["Inicio", "Sobre mí", "Habilidades", "Experiencia", "Contacto"];
 
     return (
-        <nav className="fixed top-0 left-0 w-full bg-[#0a192f] text-white shadow-md z-50">
+        <nav className="fixed top-0 left-0 w-full text-white shadow-md z-50">
             <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
                 <h1 className="text-xl font-bold">Geral Cutipa</h1>
                 <ul className="flex gap-6">
